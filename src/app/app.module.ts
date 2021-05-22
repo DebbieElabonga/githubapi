@@ -7,7 +7,6 @@ import { HomeComponent } from './home/home.component';
 import { RepoComponent } from './repo/repo.component';
 import { SearchComponent } from './search/search.component';
 import { UserComponent } from './user/user.component';
-import { UserserviceComponent } from './userservice/userservice.component';
 import { DateCountPipe } from './date-count.pipe';
 import { HighlightDirective } from './highlight.directive';
 
@@ -18,7 +17,6 @@ import { HighlightDirective } from './highlight.directive';
     RepoComponent,
     SearchComponent,
     UserComponent,
-    UserserviceComponent,
     DateCountPipe,
     HighlightDirective
   ],
