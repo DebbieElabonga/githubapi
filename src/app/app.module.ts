@@ -9,6 +9,7 @@ import { SearchComponent } from './search/search.component';
 import { UserComponent } from './user/user.component';
 import { UserserviceComponent } from './userservice/userservice.component';
 import { DateCountPipe } from './date-count.pipe';
+import { HighlightDirective } from './highlight.directive';
 
 @NgModule({
   declarations: [
@@ -18,7 +19,8 @@ import { DateCountPipe } from './date-count.pipe';
     SearchComponent,
     UserComponent,
     UserserviceComponent,
-    DateCountPipe
+    DateCountPipe,
+    HighlightDirective
   ],
   imports: [
     BrowserModule,
