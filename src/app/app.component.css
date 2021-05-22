@@ -1,0 +1,13 @@
+.back{
+    background-image: url('https://img.freepik.com/free-vector/watercolor-background_87374-69.jpg?size=626&ext=jpg');
+    background-size: cover;
+    background-position: contain;
+    background-repeat: no-repeat;
+    backface-visibility: visible;
+    height: 800px;
+    color: rgb(40, 136, 173);
+    padding-bottom: 45.5%;
+}
+.card-boardy{
+    background-color: blue;
+}

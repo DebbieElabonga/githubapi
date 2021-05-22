@@ -1,0 +1,27 @@
+.form-group{
+    padding-right: 10px;
+}
+.user{
+    padding:10px;
+}
+.home{
+    padding: 10px;
+}
+.repository{
+    padding: 10px;
+}
+.search{
+    font-family: sans-serif; 
+    text-align: center;
+    color: white;
+}
+.searchbox{
+    color: rgb(40, 136, 173);
+}
+#text{
+    padding-left: 20px;
+    margin-top: 80px;
+}
+#nav{
+    color: rgb(42, 42, 122);
+}

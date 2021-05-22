@@ -1,0 +1,16 @@
+img{
+    border-radius: 300px;
+    width: 250px;
+    height: 250px;
+}
+.homes{
+    color: rgb(40, 136, 173);
+    text-align: center;
+    margin: 200px;
+    font-family:' sans-serif';
+    font-size: x-large;
+    font-weight: bolder;
+    font-size-adjust: inherit;
+    padding-bottom: 10%;
+
+}
