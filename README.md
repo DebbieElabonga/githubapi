@@ -7,7 +7,7 @@
 
 ## Description
 
-This is Agular CLI application that allows a user to enter a GitHub username into a form, submit it, and see names and descriptions of that person's public repositories. A person can also look for repositories based on github user name.
+This is Angular CLI application that allows a user to enter a GitHub username into a form, submit it, and see names and descriptions of that person's public repositories. A person can also look for repositories based on github user name.
 
 ## Live Page 
 https://debbieElabonga.github.io/Github-API/home 
