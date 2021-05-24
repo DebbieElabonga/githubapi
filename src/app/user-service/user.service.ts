@@ -10,7 +10,7 @@ export class UserService {
   repoName: string = '';
   clientId: string= '';
   clientSecret: string = '';
-  apikey: string = ' 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 '
+  apikey: string = '  '
 
   constructor(private http: HttpClient) {
     console.log('service is now ready');
