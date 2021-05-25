@@ -8,6 +8,7 @@ import {Repo} from '../repo'
   styleUrls: ['./repo.component.css']
 })
 export class RepoComponent implements OnInit {
+  repo: any = Repo;
   reposItems: any = [];
   reposName: string ='';
 
